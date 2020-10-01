@@ -2,6 +2,8 @@
 
 TMC2130 (SilentStepStick) SPI Adapter for RAMPS v1.4
 
+![ramps_sss](./ramps_sss.webp)
+
 ## Features
 
 - Dedicated 4-pin connector for each TMC2130 unit. Works with either .1" cable assemblies or individual jumper wires.
